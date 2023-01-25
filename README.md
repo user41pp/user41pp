@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @user41pp
-- 👀 I’m interested in AI for content creation, computervision, deeplearning, GANs, open world object detection, motion capturing 
+- 👀 I’m interested in AI for content creation, computervision, deeplearning, image generation (text to image, GANs), open world object detection, motion capturing 
 - 🌱 I’m currently learning how to automate finding label errors in computer vision datasets
 - 💞️ I’m looking to collaborate on AI content creation / asset generation
 
